@@ -1,1 +1,2 @@
-writing a script that will print the current directory
+writing a script that will print the current directory.
+Writing a script that displays the content of the current directory.
